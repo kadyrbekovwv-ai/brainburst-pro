@@ -1,0 +1,27 @@
+{
+  "name": "BrainBurst Pro",
+  "short_name": "BrainBurst",
+  "description": "Mobile quiz app with 15 languages, online battle, and admin panel",
+  "start_url": "/brainburst-pro/",
+  "display": "fullscreen",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "orientation": "portrait",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/brainburst-pro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brainburst-pro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "education"],
+  "prefer_related_applications": false
+}
